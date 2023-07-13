@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f914d588-3187-472f-b3a2-8145daa4fa09" name="Changes" comment="ConcurrentThreadExample">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/thread/java/ConcurrentThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/thread/java/ThreadImplementsRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/thread/java/ThreadUsingThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerCosumerProblem/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerCosumerProblem/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerCosumerProblem/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerCosumerProblem/ProducerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +28,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SUtM9TaAY4f6flZVfyxLqcArBQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,8 +69,16 @@
       <option name="presentableId" value="Default" />
       <updated>1689212939767</updated>
       <workItem from="1689212941159" duration="4536000" />
-      <workItem from="1689217541203" duration="314000" />
+      <workItem from="1689217541203" duration="4197000" />
     </task>
+    <task id="LOCAL-00001" summary="ConcurrentThreadExample">
+      <created>1689218079677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689218079677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
